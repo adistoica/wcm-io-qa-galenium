@@ -33,9 +33,9 @@
   <url>${site.url}/${site.url.module.prefix}/</url>
 
   <scm>
-    <connection>scm:git:https://github.com/wcm-io-qa/wcm-io-qa-galenium.git</connection>
-    <developerConnection>scm:git:https://github.com/wcm-io-qa/wcm-io-qa-galenium.git</developerConnection>
-    <url>https://github.com/wcm-io-qa/wcm-io-qa-galenium</url>
+    <connection>scm:git:https://github.com/adistoica/wcm-io-qa-galenium.git</connection>
+    <developerConnection>scm:git:https://github.com/adistoica/wcm-io-qa-galenium.git</developerConnection>
+    <url>https://github.com/adistoica/wcm-io-qa-galenium</url>
     <tag>HEAD</tag>
   </scm>
   
